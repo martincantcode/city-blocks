@@ -4,7 +4,7 @@ Every city block coloured by its number of corners — a small experiment in urb
 
 | Barcelona | New York | Paris |
 |---|---|---|
-| ![Barcelona](images/barcelona_corners.png) | ![New York](images/nyc_corners.png) | ![Paris](images/paris_corners.png) |
+| ![Barcelona](images/barcelona_corners_cleaned.png) | ![New York](images/nyc_corners_cleaned.png) | ![Paris](images/paris_corners_cleaned.png) |
 
 Barcelona's Eixample is a field of octagons (Cerdà's chamfered corners), Midtown Manhattan is mostly plain rectangles, and Haussmann's boulevards cut Paris into wedges and triangles.
 
