@@ -1,5 +1,0 @@
-osmnx>=1.9
-geopandas>=0.14
-shapely>=2.0
-matplotlib>=3.8
-numpy
